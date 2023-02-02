@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 #!/bin/bash 
 echo "alx school is so cool"
+=======
+#!/bin/bash
+echo "alx is school" 
+>>>>>>> update_script
